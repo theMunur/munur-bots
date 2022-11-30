@@ -18,7 +18,7 @@
 * Daha sonra `ayarlar.json` dosyasındaki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```node app.js``` yaz ve botu başlat.
+* Kurulum bittikten sonra ```node münür.js``` yaz ve botu başlat.
 
 
 ## Botun İntentlerini Açmayı Unutma!
@@ -28,7 +28,7 @@
 ***Tadaaa 🎉. Artık v13 müzik botun hazır. Dilediğin gibi kullanabilirsin.***
 
 # İletişim
-* [Discord Profilim](https://discord.com/users/586822327568695317)
+* [Discord Profilim](https://discord.com/users/719117042904727635)
 * [Discord Sunucum](https://rabelcode.com/discord)
 * [Youtube Kanalım](http://gweepcreative.com)
 
