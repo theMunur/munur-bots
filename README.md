@@ -15,7 +15,7 @@
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 * Bu projeyi zip halinde indir.
 * Herhangi bir klasöre zipi çıkart.
-* Daha sonra `ayarlar.json` dosyasındaki bilgileri doldur.
+* Daha sonra `src/confıg` dosyalarındaki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```node münür.js``` yaz ve botu başlat.
@@ -25,7 +25,7 @@
 * [Açmak İçin Tıkla](https://discord.com/developers/applications)
 <img src="https://cdn.discordapp.com/attachments/818953120452575322/851116463166849054/3P4KKB.png"/>
 
-***Tadaaa 🎉. Artık v13 müzik botun hazır. Dilediğin gibi kullanabilirsin.***
+***Tadaaa 🎉. Artık sende aptal botçu oldun. Dilediğin gibi kullanabilirsin.***
 
 # İletişim
 * [Discord Profilim](https://discord.com/users/719117042904727635)
@@ -48,4 +48,3 @@ Sıkça sorulan sorulara buradan ulaşabilirsin.
 **A:** Proje içindeki hatalarla ilgileniyorum. Eğer bir hata ile karşılaşırsanız lütfen Discorddan benimle iletişim kurun. 
 
 
-## NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
